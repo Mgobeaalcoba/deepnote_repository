@@ -1,6 +1,6 @@
 # Deepnote_Repository
 
-Aqui podrán encontrar mis proyectos que se también se hallan en deepnote.
+Aqui podrán encontrar mis proyectos que también se hallan en deepnote.
 
 Si quieren verlos directamente allí les dejo el link: 
 
